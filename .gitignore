@@ -1,0 +1,6 @@
+*.so
+*.so.1
+*.tar.gz
+libs/
+*.out
+*.log
