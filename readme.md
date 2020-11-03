@@ -29,6 +29,8 @@ Connect to a database with a standard sqlanywhere [connection string](http://dcx
 For example:
 
 ```go
+package main
+
 import (
     _ "github.com/mdcnz/sqlanywhere"
     "database/sql"
